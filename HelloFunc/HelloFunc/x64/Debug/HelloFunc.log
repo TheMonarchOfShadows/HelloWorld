@@ -1,5 +1,5 @@
-﻿  funcClass.cpp
-  HelloFunc.cpp
+﻿  HelloFunc.cpp
+  funcClass.cpp
   Generating Code...
   HelloFunc.vcxproj -> C:\Users\jakec\Source\Repos\HelloWorld\HelloFunc\x64\Debug\HelloFunc.exe
   'pwsh.exe' is not recognized as an internal or external command,
