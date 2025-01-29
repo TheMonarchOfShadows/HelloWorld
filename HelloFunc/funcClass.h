@@ -9,6 +9,6 @@ public:
 	funcClass();
 	~funcClass();
 
-	void HelloWorld(std::string hello);
+	void HelloWorld(std::string& hello);
 };
 
