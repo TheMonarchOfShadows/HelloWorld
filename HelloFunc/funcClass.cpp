@@ -1,6 +1,14 @@
 #include "funcClass.h"
 
-void funcClass::HelloWorld()
+funcClass::funcClass()
 {
-	std::cout << Hello << "\n";
+}
+
+funcClass::~funcClass()
+{
+}
+
+void funcClass::HelloWorld(std::string hello)
+{
+	std::cout << hello;
 }
