@@ -11,7 +11,11 @@ namespace HelloWorldTesting
 		
 		TEST_METHOD(TestMethod1)
 		{
-			std::string = Hello World;
+			std::string str = "Hello World!";
+			//Class myClass = new class();
+			// myClass(str);
+			std::string answer = "Hello World!";
+			Assert.AreEquals(str, answer);
 		}
 
 	};
