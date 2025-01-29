@@ -8,7 +8,7 @@ funcClass::~funcClass()
 {
 }
 
-void funcClass::HelloWorld(std::string& hello)
+void funcClass::HelloWorld(std::string& anyString)
 {
-	std::cout << hello;
+	std::cout << anyString;
 }
