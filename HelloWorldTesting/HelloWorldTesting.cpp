@@ -11,6 +11,8 @@ namespace HelloWorldTesting
 		
 		TEST_METHOD(TestMethod1)
 		{
+			std::string = Hello World;
 		}
+
 	};
 }
