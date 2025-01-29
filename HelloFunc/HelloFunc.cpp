@@ -1,10 +1,10 @@
 #include <iostream>
+#include "funcClass.h"
 
-std::string HelloWorld() {
-    return "Hello World!";
-}
 
 int main()
 {
-    std::cout << HelloWorld();
+    std::string Hello = "Hello World!";
+    funcClass test;
+    test.HelloWorld(Hello);
 }

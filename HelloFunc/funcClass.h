@@ -1,14 +1,14 @@
 #pragma once
 #include <iostream>
 class funcClass
-{private:
-	std::string Hello = "Hello World!";
+{
+private:
 
 public:
 
 	funcClass();
 	~funcClass();
 
-	void HelloWorld();
+	void HelloWorld(std::string hello);
 };
 
