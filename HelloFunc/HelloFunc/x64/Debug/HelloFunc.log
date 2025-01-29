@@ -1,4 +1,6 @@
-﻿  HelloFunc.cpp
+﻿  funcClass.cpp
+  HelloFunc.cpp
+  Generating Code...
   HelloFunc.vcxproj -> C:\Users\MALICIOUS\source\repos\HelloWorld\HelloFunc\x64\Debug\HelloFunc.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
