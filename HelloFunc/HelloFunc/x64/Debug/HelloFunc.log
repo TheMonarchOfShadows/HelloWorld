@@ -1,6 +1,7 @@
-﻿  funcClass.cpp
-  HelloFunc.cpp
+﻿  HelloFunc.cpp
+  funcClass.cpp
   Generating Code...
+  LINK : C:\Users\MALICIOUS\Source\Repos\HelloWorld\HelloFunc\x64\Debug\HelloFunc.exe not found or not built by the last incremental link; performing full link
   HelloFunc.vcxproj -> C:\Users\MALICIOUS\Source\Repos\HelloWorld\HelloFunc\x64\Debug\HelloFunc.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
