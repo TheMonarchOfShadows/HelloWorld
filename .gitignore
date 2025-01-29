@@ -2,3 +2,5 @@ build/
 .DS_Store
 /.vs
 /HelloFunc/.vs/HelloFunc
+/.vs/HelloWorld/v17
+/.vs
