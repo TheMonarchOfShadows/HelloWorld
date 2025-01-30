@@ -6,7 +6,7 @@
 struct captureBuffer : public std::streambuf
 {
 public:
-
+    // working
 protected:
 
 private:
