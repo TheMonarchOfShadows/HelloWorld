@@ -1,14 +1,4 @@
 ﻿  Source.cpp
-C:\Users\jakec\source\repos\HelloWorld\consolestream\Source.cpp(22,18): error C2248: 'std::ios_base::ios_base': cannot access protected member declared in class 'std::ios_base'
-      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\xiosbase(376,24):
-      see declaration of 'std::ios_base::ios_base'
-      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\xiosbase(85,53):
-      see declaration of 'std::ios_base'
-  
-C:\Users\jakec\source\repos\HelloWorld\consolestream\Source.cpp(22,21): error C2059: syntax error: ';'
-C:\Users\jakec\source\repos\HelloWorld\consolestream\Source.cpp(23,50): error C2064: term does not evaluate to a function taking 0 arguments
-C:\Users\jakec\source\repos\HelloWorld\consolestream\Source.cpp(25,20): error C2352: 'std::ios_base::clear': a call of a non-static member function requires an object
-      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\xiosbase(176,29):
-      see declaration of 'std::ios_base::clear'
-  
-C:\Users\jakec\source\repos\HelloWorld\consolestream\Source.cpp(26,5): error C2065: 'console': undeclared identifier
+  consolestream.vcxproj -> C:\Users\jakec\Source\Repos\HelloWorld\HelloFunc\x64\Debug\consolestream.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
